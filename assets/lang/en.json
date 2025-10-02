@@ -1,0 +1,209 @@
+{
+  "StartUpPage" :{
+    "appTitle": "No Pain No Gain",
+    "EverybodyCanTrain": "Everybody Can Train",
+    "GetStarted": "Get Started"
+  },
+  "OnBoardingBage": [
+    {
+      "title": "Track Your Goal",
+      "subtitle":
+      "Don't worry if you have trouble determining your goals, We can help you determine your goals and track your goals",
+      "image": "assets/img/on_1.png"
+    },
+    {
+      "title": "Get Burn",
+      "subtitle":
+      "Let’s keep burning, to achive yours goals, it hurts only temporarily, if you give up now you will be in pain forever",
+      "image": "assets/img/on_2.png"
+    },
+    {
+      "title": "Eat Well",
+      "subtitle":
+      "Let's start a healthy lifestyle with us, we can determine your diet every day. healthy eating is fun",
+      "image": "assets/img/on_3.png"
+    },
+    {
+      "title": "Improve Sleep\nQuality",
+      "subtitle":
+      "Improve the quality of your sleep with us, good quality sleep can bring a good mood in the morning",
+      "image": "assets/img/on_4.png"
+    }
+  ],
+  "LogInPage": {
+    "Hey there": "Hey there",
+    "Forgot your password?": "Forgot your password?",
+    "Welcome Back": "Welcome Back",
+    "LogIn": "LogIn",
+    "Success": "Success",
+    "Register": "Register",
+    "Don’t have an account yet? ": "Don’t have an account yet? ",
+    "enter your email please":  "enter your email please",
+    "Email": "Email",
+    "Create an Account": "Create an Account",
+    "Policy": "By continuing you accept our Privacy Policy and\nTerm of Use",
+    "Sign Up": "Sign Up",
+    "Already have an account? ": "Already have an account? ",
+    "enter your password please": "enter your password please",
+    "password vertifay" :"your password must be over 5 letters",
+    "Password": "Password",
+    "name vertifay": "enter your first name please!",
+    "First Name": "First Name",
+    "email vertify": "enter your email please",
+    "  Or  ": "  Or  ",
+    "enter spacial character":"enter spacial character and big number and small number and a number"
+  },
+  "GoalsPage": {
+    "calories": "calories",
+    "month": "week",
+    "View Plans": "View Plans",
+    "Daily Workout Schedule": "Statistic of plans",
+    " What Do You Want to Train ?": " What Do You Want to Train ?",
+    "Workout Tracker": "Workout Tracker",
+    "Check": "Check",
+    "Planes": "Planes",
+    "items": "items",
+    "Rigester in this Goal ": "Rigester in this Goal "
+  },
+  "SelectPage": {
+    "Workout Tracker": "Workout Tracker",
+    "Meal Planner": "Meal Planner",
+    "Sleep Tracker": "Sleep Tracker",
+    "Water page":  "Water page"
+  },
+  "general": {
+    "Week": "Week",
+    "try again":  "try again",
+    "loading ....": "loading ...."
+  },
+  "ExercisesPage": {
+    "Descriptions": "Descriptions",
+    "Exercises": "Exercises",
+    "Sets": "Sets",
+    "Duration": "Duration",
+    "How To Do It": "How To Do It",
+    "Custom Repetitions": "Custom Repetitions",
+    " Finished ": " Finished ",
+    " times": " times",
+    "Start Practice": "Start Practice",
+    "woman": "woman",
+    "men": "men"
+  },
+ "OnCompletePage":{
+  "gender": "please choose your gender",
+   "age": "please enter your age",
+   "height": "please enter your height",
+   "width": "please enter your width",
+   "illnesses": "please enter your illnesses",
+   "Choose The Dayes You Want To Practice In":   "Choose The Dayes You Want To Practice In",
+   "Updated Success": "Updated Success",
+   "Let’s complete your profile": "Let’s complete your profile",
+   "It will help us to know more about you!": "It will help us to know more about you!",
+   "Let’s Change your profile": "Let’s Change your profile",
+   "Submit": "Submit",
+   "Write The Code That We Send It To Your Email": "Write The Code That We Send It To Your Email",
+   "THis Move Is So Important For You": "This Move Is So Important For You",
+   "code": "Enter Your Code",
+   "Welcome": "Welcome",
+   "You are all set now, let’s reach your\ngoals together with us": "You are all set now, let’s reach your\ngoals together with us",
+   "GoToHome": "Go To Home"
+},
+  "Meals Planer": {
+    "Meal  Schedule": "Meal  Schedule",
+    "Meal Planner": "Meal Planner",
+    "Meal Nutritions": "Meal Nutritions",
+    "Daily Meal Schedule": "Daily Meal Schedule",
+    "Choose the food": "Choose the food you want to eat for ever single time period ",
+    "View": "View",
+    "lanshe": "lanshe",
+    "Search Pancake":"Search Pancake",
+    "Recommendation recipes": "Recommendation recipes",
+    "Category": "Category",
+    "new recipes": "new recipes",
+    "recipe detailes": "recipe detailes",
+    "Step by Step": "Step by Step",
+    "Steps": "Steps",
+    "fats": "fats",
+    "carbo": "carbo",
+    "protiens": "protiens",
+    "Cal": "Cal",
+    "recipe": "recipe",
+    "All Food": "All Food",
+    "Items": "Items",
+    "BreakFast": "BreakFast",
+    "Lunch": "Lunch",
+    "Snacks": "Snacks",
+    "Dinner": "Dinner",
+    "Today Meal Nutritions": "Today Meal Nutritions",
+    "Success": "Success",
+    "the Operation is Failed Try Again": "the Operation is Failed Try Again",
+    "Loading...": "Loading...",
+    "Submit My Choices": "Submit My Choices",
+    "Nutrition": "Nutrition",
+    "Ingredients That You\nWill Need": "Ingredients That You\nWill Need"
+  },
+  "plans statistic": {
+    "total Rate": "total Rate",
+    "daily Rate": "daily Rate",
+    "Weakly Rate": "Weakly Rate",
+    "My Rate": "My Rate",
+    "Cal": "Cal",
+    "Activity  Progress": "Activity  Progress",
+    "Calories Burn": "Calories Burn"
+  },
+  "Activity Tracker": {
+    "Activity Tracker": "Activity Tracker",
+    "Today Target": "Today Target",
+    "Water Intake": "Water Intake",
+    "Sleep Hours": "Sleep Hours",
+    "My Plans And Exercises": "My Plans And Exercises",
+    "Latest Workout": "Latest Workout",
+    "Latest Miles": "Latest Miles"
+  },
+  "Profile": {
+    "BMI (Body Mass Index)": "BMI (Body Mass Index)",
+    "You have a": "You have a",
+    "Today Target": "Today Target",
+    "Activity Status":  "Activity Status",
+    "Food Caloric": "Food Caloric",
+    "The Total Rate": "The Total Rate",
+    "Sleep": "Sleep",
+    "Water Intake1": "Water Intake",
+    "Liters": "Liters",
+    "Profilea": "profile",
+    "Edit": "Edit",
+    "Language": "Language",
+    "English": "English",
+    "Theme": "Theme",
+    "Light or dark": "Light or dark",
+    "Height": "Height",
+    "Weight": "Weight",
+    "Age": "Age",
+    "Address": "Address",
+    "Gender": "Gender",
+    "illness": "illness",
+    "sunday": "sunday",
+    "tuesday": "tuesday",
+    "monday": "monday",
+    "wednesday": "wednesday",
+    "thrusday": "thrusday",
+    "friday": "friday",
+    "saturday": "saturday",
+    "Welcome Back": "Welcome Back",
+    "log out": "log out",
+    "do you want to log out?": "do you want to log out ?",
+    "cancel": "cancel",
+    "try again": "try again"
+  },
+  "sleep": {
+    "Last Night Sleep": "Last Night Sleep",
+    "my progress": "my progress",
+    "subment my sleep houres": "subment my sleep houres",
+    "Sleep Tracker": "Sleep Tracker"
+  },
+  "water": {
+    "water Tracker":  "water Tracker",
+    "Water Scadual": "Water Scadual",
+    "Add My Water Amount": "Add My Water Amount"
+  }
+}

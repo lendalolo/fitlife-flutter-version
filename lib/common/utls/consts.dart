@@ -1,0 +1,15 @@
+String PlansName ='plans';
+String GoalsName ='goales';
+String ExerciesName ='exercies';
+String DateName ='date';
+String ExerciesDetailsName ='ExerciesDetailsName';
+String LocationData='LocationData';
+String UserDataInformation='UserData';
+String AllMealsName ='AllMealsName';
+String MealDetailesName ='MealDetailesName';
+String MealCategoriesName ='MealCategoriesName';
+String PlansStatesiticsName ='PlansStatesiticsName';
+String TodayTargetName='TodayTargetName';
+String ProfileName='profileName';
+String WaterStatisticName='waterStatisticName';
+String sleepStatisticsName ='sleepStatisticsName';

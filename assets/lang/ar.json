@@ -1,0 +1,207 @@
+{
+  "StartUpPage" : {
+    "appTitle": "لا مجهود لا نتيجة",
+    "EverybodyCanTrain":"الجميع بامكانه التمرين",
+    "GetStarted": "ابدأ"
+  },
+  "OnBoardingPage": [
+  {
+    "title": "اتبع هدفك",
+    "subtitle":"هل انت خاىف من عدم فدرتك على تحديد هدفك, نستطيع مساعدتك على تحديد هدفك ومتابعته بشكل يومب ",
+    "image": "assets/img/on_1.png"
+  },
+  {
+    "title": "حرق الدهون",
+    "subtitle":"لنستمر بحرق الدهون , لتصل الى هدفك وقد تتألم قليلا ولكن لشكل مؤقت, اذا استسلمت الآن سوف تكون في ألم للأبد.",
+    "image": "assets/img/on_2.png"
+  },
+  {
+    "title": " الأكل المنظَم",
+    "subtitle":"لتبدأ حية صحية معنا والآن , يمكننا تحديد الريجيم الخاص بك كل يوم ,الطعام الصحي ممتع.",
+    "image": "assets/img/on_3.png"
+  },
+  {
+    "title": "حسن نومك",
+    "subtitle":"حسن جودة نومك معنا, النوم بشكل جيد يجعل مزاجك افضل.",
+    "image": "assets/img/on_4.png"
+  }
+],
+  "LogInPage": {
+    "Hey there": "مرحباً",
+    "Forgot your password?": "هل نسيت كلمة المرور ؟",
+    "Welcome Back": "اهلاً بعودتك ",
+    "LogIn": "تسجيل دخول",
+    "Success": "تم تسجيل الدخول بنجاح",
+    "Register": "انشاء حساب",
+    "Don’t have an account yet? ": "لا تملك حساب بعد؟",
+    "enter your email please":  "ادخل البريد الالكتروني من فضلك",
+    "Email": "البريد الالكتروني",
+    "Create an Account": "انشاء حساب",
+    "Policy": "بانشائك حساب فانت توافق على كل قوانيننا التي تخص الخصوصية",
+    "Sign Up": "انشاء حساب",
+    "Already have an account? ": "تمتلك حساباً بالفعل؟  ",
+    "enter your password please": "ادخل كلمة المرور من فضلك",
+    "password vertifay" :"كلمة المرور يجب ان تكون اكثر من 6 احرف ",
+    "Password": "كلمة المرور",
+    "name vertifay": "ادخل اسمك من فضلك !",
+    "First Name": "الاسم",
+    "email vertify": "ادخل البريد الالكتروني من فضلك",
+    "  Or  ": "  او  ",
+    "enter spacial character":"ادخل رمز خاص وحرف كبير وصغير ورقم"
+
+  },
+  "GoalsPage": {
+    "calories": "كالوري",
+    "month": "اسبوع",
+    "View Plans": "عرض الخطط",
+    "Daily Workout Schedule": "احصائيات الحرق للخطط",
+    " What Do You Want to Train ?": "ماذا تريد ان تتمرن ؟ ",
+    "Workout Tracker": "متتبع التمارين",
+    "Check": "عرض",
+    "Planes": "خطط",
+    "items":  "عناصر",
+    "Rigester in this Goal ": "التسجيل في الهدف"
+  },
+  "SelectPage": {
+    "Workout Tracker": "مخطط التمارين",
+    "Meal Planner": "مخطط الوجبات",
+    "Sleep Tracker": "مخطط النوم",
+    "Water page": "مخطط الماء"
+  },
+  "general": {
+    "Week": "الاسبوع",
+    "try again":  "حاول مره أخرى",
+    "loading ....": "يتم التحميل ...."
+  },
+  "ExercisesPage": {
+    "Descriptions": "الوصف",
+    "Exercises": "التمارين",
+    "Sets": "خطوة",
+    "Duration": "المدة",
+    "How To Do It": "خطوات التمرين",
+    "Custom Repetitions": "تحديد عدد الحريرات",
+    " Finished ": " انتهى ",
+    " times": " مرة",
+    "Start Practice": "ابدا بالتمرن",
+    "woman": " تمارين للنساء",
+    "men": "تمارين للرجال"
+  },
+  "OnCompletePage":{
+    "gender": "ادخل جنسك من فضلك",
+    "age": "ادخل عمرك من فضلك",
+    "height": "ادخل طولك من فضلك",
+    "width": "ادخل وزنك من فضلك",
+    "illnesses": "ادخل الامراض المزمنة التي تعاني منها واذا لا يوجد اذكر ذلك",
+    "Choose The Dayes You Want To Practice In": "اختار الأيام التي تريد أن تتدرب فيها",
+    "Updated Success": "تمت عملية التعديل بنجاح",
+    "Let’s complete your profile": "لنكمل ملئ بياناتك",
+    "It will help us to know more about you!": "هذا سوف يساعدنا في التعرف عليك اكثر واختيار الهدف المناسب لك",
+    "Let’s Change your profile": "لتقوم بتعديل بياناتك ",
+    "Submit": "تم",
+    "Write The Code That We Send It To Your Email": "قم بكتابة الكود الذي ارسلناه إلى ايميلك",
+    "THis Move Is So Important For You": "هذه المهمة مهمة لأجل أمانك",
+    "code": "الكود",
+    "Welcome": "مرحباً",
+    "You are all set now, let’s reach your\ngoals together with us": "تم تسجيل دخولك الأن فلتبدأ معنا\nسجل بأحد الأهداف الآن",
+    "GoToHome": "اذهب للصفحة الرئيسية"
+  },
+  "Meals Planer": {
+    "Meal Planner": "جدول الأغذية",
+    "Meal Nutritions": "مخطط كمية الكالوريات",
+    "Daily Meal Schedule": "قائمة وجباتي ",
+    "Choose the food": "اختار الأطعمة التي سوف تأكلها اليوم في كل فترة من الفترات",
+    "View": "عرض ",
+    "lanshe": "عشاء",
+    "Search Pancake": "ابحث عن وجبة",
+    "Recommendation recipes": "قسم الوجبات",
+    "Category": "الفئات",
+    "new recipes": "الوصفات الجديدة",
+    "recipe detailes": "تفاصيل الوجبة",
+    "Step by Step": "خطوة بخطوة",
+    "Steps":"خطوة",
+    "fats": "دهون",
+    "carbo": "كاربوهيدرات",
+    "protiens": "بروتينات",
+    "Cal": "كالوري",
+    "recipe": "الوصفة",
+    "All Food": "جميع الوجبات",
+    "Meal  Schedule": "قائمة وجباتي",
+    "Items": "عنصر",
+    "BreakFast": "فطور",
+    "Lunch": "غداء",
+    "Snacks": "وجبات خفيفة",
+    "Dinner": "عشاء",
+    "Today Meal Nutritions": "حريرات وجبات اليوم الكلية",
+    "Success": "تمت العملية بنجاح",
+    "the Operation is Failed Try Again": "لقد حدث خطأ اعد المحاولة",
+    "Loading...": "تحميل...",
+    "Submit My Choices": "اختيار وجباتي",
+    "Nutrition": "السعرات الحرارية",
+    "Ingredients That You\nWill Need": "المكونات التي قد تحتاجها"
+  },
+  "plans statistic": {
+    "total Rate": "الحرق الكلي",
+    "daily Rate": "الحرق اليومي",
+    "Weakly Rate": "الحرق الأسبوعي",
+    "My Rate": "تفاصيل الحرق",
+    "Cal": "كالوري",
+    "Activity  Progress": "متتبع نشاطي",
+    "Calories Burn": "حرق الكالوريات"
+  },
+  "Activity Tracker": {
+    "Activity Tracker": "مهامي اليومية",
+    "Today Target": "أهداف اليوم",
+    "Water Intake": "كمية الماء",
+    "Sleep Hours": "ساعات النوم",
+    "My Plans And Exercises": "خططي وتماريني",
+    "Latest Workout": "اخر تمارين قمت بها",
+    "Latest Miles": "الوحبات التي قمت بتناولها"
+  },
+  "Profile": {
+    "BMI (Body Mass Index)": "BMI (مقياس اتزان الطول مع الوزن)",
+    "You have a": "انت تملك",
+    "Today Target": "مهامي اليوم",
+    "Activity Status":  "جدول نشاطي",
+    "Food Caloric": "جدول كالوري الطعام",
+    "The Total Rate": "الحرق الكلي",
+    "Sleep": "ساعات النوم",
+    "Water Intake1": "كمية المياة",
+    "Liters": "ليتر",
+    "Profilea": "ملفي الشخصي",
+    "Edit": "تعديل ملفي",
+    "Language": "اللغة",
+    "English": "الانكليزي",
+    "Theme": "الثيم",
+    "Light or dark": "ليلي او نهاري",
+    "Height": "الطول",
+    "Weight": "الوزن",
+    "Age": "العمر",
+    "Address": "العنوان",
+    "Gender": "الجنس",
+    "illness": "الامراض المزمنة",
+    "sunday": "احد",
+    "tuesday": "تلاتاء",
+    "monday": "اثنين",
+    "wednesday": "اربعاء",
+    "thrusday": "خميس",
+    "friday": "جمعة",
+    "saturday": "سبت",
+    "Welcome Back": "اهلا بعودتك",
+    "log out": "تسجيل الخروج",
+    "do you want to log out?": "هل تريد تسجيل الخروج؟",
+    "cancel": "الغاء",
+    "try again": "حاول ثانياً"
+
+  },
+  "sleep": {
+    "Last Night Sleep": "ساعات نومك",
+    "my progress": "مخطط نومي",
+    "subment my sleep houres": "اضف ساعات نومي",
+    "Sleep Tracker": "متتبع النوم"
+  },
+  "water": {
+    "water Tracker":  "متتبع خطط شرب الماء",
+    "Water Scadual": "مخطط شرب الماء",
+    "Add My Water Amount": "اضف كمية الماء"
+  }
+}
